@@ -1,6 +1,7 @@
 # Lab 8 - Louie Bloomberg
 # Lab 8A - Louie Bloomberg
 # Version 2
+# Oh my posh, those terminals look nice. Should probably change the git bash one tho.
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
