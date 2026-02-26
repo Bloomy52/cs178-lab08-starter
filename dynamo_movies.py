@@ -1,4 +1,6 @@
 # Lab 8 - Louie Bloomberg
+# Lab 8A - Louie Bloomberg
+# Version 2
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
